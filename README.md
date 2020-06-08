@@ -4,6 +4,8 @@ Face Mask Detection using custom object detection method with FastnetRCNN model
 ### The files that are not above available could be found at link:
 https://drive.google.com/drive/folders/1SDuPnK4YxyYa6Qo_SOifRNTCZ-8BeVdW?usp=sharing
 
+### The step by step guide of above steps is explained in detail in article at link
+www.------------------------.com
 
 ## (To detect whether person is wearing mask or not)
 There are many real life problems that are in need to be solved by developers and programmers using Object detection techniques. With the same viewpoint this article would follow all the steps and requirements for solving the real life problem and i.e. to check whether a person is wearing a mask or not.
@@ -22,5 +24,4 @@ In this step we will Start the model training and collecting checkpoints
 ## * Export inference graph
 From checkpoints we will generate frozen inference graph from checkpoints
 
-### The step by step guide of above steps is explained in detail in article at link
-www.------------------------.com
+
