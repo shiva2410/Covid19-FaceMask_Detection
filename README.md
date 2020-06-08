@@ -12,3 +12,6 @@ So lets start,
 ## *Creating label map and configuration:
 ## *Training:
 ## *Export inference graph
+
+### The step by step guide of above steps is explained in detail in article at link
+www.------------------------.com
