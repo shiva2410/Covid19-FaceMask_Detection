@@ -25,3 +25,5 @@ In this step we will Start the model training and collecting checkpoints
 From checkpoints we will generate frozen inference graph from checkpoints
 
 
+![detected_results](output_1.png)
+![detected_results](output_2.png)
